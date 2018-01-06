@@ -26,16 +26,16 @@
     
         运行Client.exe 这是一个客户端用来启动socket，点击连接 ，连接上服务器（如下图）
         
-        ![image](https://github.com/zhoutengshen/ChessServer_Client/blob/master/img/client.PNG)
+        ![image](https://github.com/zhoutengshen/ChessServer_Client/blob/master/img/ip.PNG)
         
         
         点击创建房间，（如下图）
         
-        ![image](https://github.com/zhoutengshen/ChessServer_Client/blob/master/img/createRoom.PNG)
+        ![image](https://github.com/zhoutengshen/ChessServer_Client/blob/master/img/ip.PNG)
         
         再启动一个客户端，然后，填入相应的ip地址，然后加入上面创建的房间（加入放假时要选中需要加入的放假），（如下图），注意到如果加入成功房间里面的人头像，会变成两个人的头像
         
-        ![image](https://github.com/zhoutengshen/ChessServer_Client/blob/master/img/joinRoom.PNG)
+        ![image](https://github.com/zhoutengshen/ChessServer_Client/blob/master/img/ip.PNG)
         
  运行效果如下：
  
