@@ -1,5 +1,6 @@
 运行：
     启动服务器：
+    
         cd ChessServer_Client\Server\bin\Debug
         
         运行：Server.exe 
