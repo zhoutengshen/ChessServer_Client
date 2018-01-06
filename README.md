@@ -25,11 +25,7 @@
         
     
         运行Client.exe 这是一个客户端用来启动socket，点击连接 ，连接上服务器（如下图）
-        
-        
         ![image](https://github.com/zhoutengshen/ChessServer_Client/blob/master/img/ip.PNG)
-        
-        
         点击创建房间，（如下图）
         
         ![image](https://github.com/zhoutengshen/ChessServer_Client/blob/master/img/ip.PNG)
