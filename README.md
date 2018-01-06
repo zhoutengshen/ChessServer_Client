@@ -10,7 +10,7 @@
         
             查看本机局域网ip地址：cmd下：ipconfig （如下图）
             
-            ![image](https://github.com/zhoutengshen/ChessServer_Client/blob/master/img/ip.PNG）
+            ![image](https://github.com/zhoutengshen/ChessServer_Client/blob/master/img/ip.PNG)
             
             
             将得到ip地址填入服务器的ip输入框，点击启动；（如下图）
