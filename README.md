@@ -28,6 +28,7 @@
         ![image](https://github.com/zhoutengshen/ChessServer_Client/blob/master/img/client.PNG)
         
         点击创建房间，（如下图）
+        
         ![image](https://github.com/zhoutengshen/ChessServer_Client/blob/master/img/createRoom.PNG)
         
         
