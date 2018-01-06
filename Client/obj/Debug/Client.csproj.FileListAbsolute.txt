@@ -1,0 +1,26 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Client\bin\Debug\Client.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Client\obj\Debug\Client.ClientForm.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Client\bin\Debug\Client.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Client\bin\Debug\Client.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Client\obj\Debug\Client.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Client\obj\Debug\Client.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ChessServer_Client\Client\obj\Debug\Client.CreateRoomForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ChessServer_Client\Client\obj\Debug\Client.JoinRoomForm.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Client\bin\Debug\Chess.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Client\bin\Debug\Chess.pdb
+G:\我的程序\ChessServer_Client\Client\bin\Debug\Client.exe.config
+G:\我的程序\ChessServer_Client\Client\obj\Debug\Client.exe
+G:\我的程序\ChessServer_Client\Client\obj\Debug\Client.pdb
+G:\我的程序\ChessServer_Client\Client\bin\Debug\Client.exe
+G:\我的程序\ChessServer_Client\Client\bin\Debug\Client.pdb
+G:\我的程序\ChessServer_Client\Client\bin\Debug\Chess.exe
+G:\我的程序\ChessServer_Client\Client\bin\Debug\Chess.pdb
+G:\我的程序\ChessServer_Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\我的程序\ChessServer_Client\Client\obj\Debug\Client.JoinRoomForm.resources
+G:\我的程序\ChessServer_Client\Client\obj\Debug\Client.ClientForm.resources
+G:\我的程序\ChessServer_Client\Client\obj\Debug\Client.CreateRoomForm.resources
+G:\我的程序\ChessServer_Client\Client\obj\Debug\Client.Properties.Resources.resources
+G:\我的程序\ChessServer_Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache

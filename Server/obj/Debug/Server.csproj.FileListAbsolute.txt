@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\bin\Debug\Server.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\bin\Debug\Server.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\bin\Debug\Server.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\obj\Debug\Server.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

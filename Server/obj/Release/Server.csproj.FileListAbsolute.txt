@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\bin\Release\Server.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\bin\Release\Server.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\bin\Release\Server.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\obj\Release\Server.ServerForm.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\obj\Release\Server.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\ChessServer_Client\Server\obj\Release\Server.pdb
